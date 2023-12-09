@@ -14,7 +14,7 @@ This repository houses the codebase for my 3D Portfolio Website. The website is 
 ## Usage
 
 1. Clone the repository: `git clone https://github.com/mayourbukhari/Short-3D-Portfolio-Website.git`
-2. Open `index.html` in a web browser to explore the 3D Portfolio Website.
+2. Open `https://syedmohsin.vercel.app/` in a web browser to explore the 3D Portfolio Website.
 
 
 ## Contributing
