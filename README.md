@@ -25,8 +25,16 @@ I welcome contributions and feedback! If you have suggestions or would like to c
 
 This project is licensed under the [MIT License](LICENSE), providing flexibility for adaptation to personal portfolios.
 
-## Contact
+## Author
+Syed Mohsin Bukhari
 
-For any inquiries or collaboration opportunities, feel free to reach out to me at [smayour82@gmail.com](mailto:smayour82@gmail.com).
+For any inquiries or collaboration opportunities, feel free to reach out to me at 
+
+- [![Mail](https://img.shields.io/badge/Mail-Contact-informational?style=for-the-badge&logo=gmail)](mailto:smayour82@gmail.com)
+- [![Visit Website](https://img.shields.io/badge/Visit%20Website-Portfolio-blue?style=for-the-badge)](https://mayourbukhari.github.io/Personal-Portfolio)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/syed-mohsin-bukhari/)  
+- [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/ArraySurvey)  
+- [![GitHub](https://img.shields.io/badge/GitHub-Follow-blue?style=for-the-badge&logo=github)](https://github.com/mayourbukhari)  
+- [![Instagram](https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/mayour_writes)
 
 Happy exploring and coding!
